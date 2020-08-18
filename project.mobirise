@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Paid Video Status",
-    "currentPage": "Album-4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -88,12 +88,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "P V S || HOME || PAID VIDEO STATUS",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/20200813-182915-2000x1600.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/20200818-115338-2000x2000.jpg"
       },
       "components": [
         {
@@ -1064,7 +1064,7 @@
         "meta_descr": "Web Maker Description",
         "title": "Terms and Conditions",
         "order": 6,
-        "meta_image": "@PROJECT_PATH@/assets/images/png-2000x1600.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/20200818-115439-2000x2000.png"
       },
       "components": [
         {
@@ -1546,7 +1546,7 @@
         "meta_descr": "Web Page Creator Description",
         "title": "Privacy Policy",
         "order": 7,
-        "meta_image": "@PROJECT_PATH@/assets/images/png-2000x1600.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/20200818-115637-2000x2000.png"
       },
       "components": [
         {
@@ -2031,7 +2031,7 @@
         "meta_descr": "Website Builder Description",
         "title": "Cookie Policy",
         "order": 5,
-        "meta_image": "@PROJECT_PATH@/assets/images/png-2000x1600.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/20200818-115439-2000x2000.png"
       },
       "components": [
         {
