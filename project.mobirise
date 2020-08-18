@@ -70,7 +70,7 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "favicon": "@PROJECT_PATH@/assets/images/20200818-115620-128x128-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/20200818-184249-128x72-1.png",
     "robotsSwitcher": false,
     "uniqCompNum": 68,
     "versionPublish": "4.12.4",
@@ -88,7 +88,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "P V S || HOME || PAID VIDEO STATUS",
+        "title": "Home - Paid Video Status | P V D",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2511,7 +2511,7 @@
     "Album-1.html": {
       "settings": {
         "meta_descr": "Web Page Generator Description",
-        "title": "1 Time To Time Status...",
+        "title": "Time To Time Status - Paid Video Status | P V D",
         "order": 1,
         "meta_image": "@PROJECT_PATH@/assets/images/devotinoal-status-778x972.png"
       },
@@ -3486,7 +3486,7 @@
     "Album-3.html": {
       "settings": {
         "meta_descr": "Web Page Generator Description",
-        "title": "Hate,Sas,Broken Status...",
+        "title": "Hate, Sad, Broken Status - Paid Video Status | P V D",
         "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/sad-status-474x593.png"
       },
@@ -4461,7 +4461,7 @@
     "Album-4.html": {
       "settings": {
         "meta_descr": "Web Page Generator Description",
-        "title": "Attitude / Pubg Status...",
+        "title": "Attitude, Pubg Status - Paid Video Status | P V D",
         "order": 4,
         "meta_image": "@PROJECT_PATH@/assets/images/attitude-status-474x593.png"
       },
@@ -5436,7 +5436,7 @@
     "Album-2.html": {
       "settings": {
         "meta_descr": "Web Page Generator Description",
-        "title": "2 Romantic Love Status...",
+        "title": "Romantic, Love Status - Paid Video Status | P V D",
         "order": 2,
         "meta_image": "@PROJECT_PATH@/assets/images/love-status-474x593.png"
       },
