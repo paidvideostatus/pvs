@@ -70,7 +70,7 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "favicon": "@PROJECT_PATH@/assets/images/20200818-184249-128x72-1.png",
+    "favicon": "",
     "robotsSwitcher": false,
     "uniqCompNum": 68,
     "versionPublish": "4.12.4",
