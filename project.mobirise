@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Paid Video Status",
-    "currentPage": "index.html",
+    "currentPage": "Album-3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -679,25 +679,25 @@
           "_params": {
             "gallery": [
               {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise202083-2026192020-8-4-20-26-52.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/VpkTiyDshUg",
+                "image": "@THEME_PATH@/components/_images/background1.jpg",
+                "thumb": "@THEME_PATH@/components/_images/background1.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "tags": "Creative",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020718-164192020-7-2-16-51-44.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=obW8rxiYClI",
                 "image": "@PROJECT_PATH@/assets/images/20200818-115637-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/20200818-115637-2000x2000-800x800.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020715-1128532020-7-6-12-34-21.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=-6jNUUD6RYs",
-                "image": "@THEME_PATH@/components/_images/background1.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background1.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -715,7 +715,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
@@ -4117,12 +4117,12 @@
           "_params": {
             "gallery": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020718-164192020-7-2-16-59-27.jpg",
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise202083-2026192020-8-4-20-26-52.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=K4yW6rVnnTI",
-                "image": "@THEME_PATH@/components/_images/background1.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background1.jpg",
+                "videoUrl": "https://youtu.be/VpkTiyDshUg",
+                "image": "@THEME_PATH@/components/_images/background2.jpg",
+                "thumb": "@THEME_PATH@/components/_images/background2.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4130,12 +4130,12 @@
                 "active": true
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020718-164192020-7-2-16-59-27.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/background2.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background2.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=K4yW6rVnnTI",
+                "image": "@THEME_PATH@/components/_images/background1.jpg",
+                "thumb": "@THEME_PATH@/components/_images/background1.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4283,12 +4283,12 @@
           "_params": {
             "gallery": [
               {
-                "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020718-164192020-7-2-16-59-27.jpg",
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise202083-2026192020-8-4-20-26-52.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=K4yW6rVnnTI",
-                "image": "@THEME_PATH@/components/_images/background3.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background3.jpg",
+                "videoUrl": "https://youtu.be/VpkTiyDshUg",
+                "image": "@THEME_PATH@/components/_images/background1.jpg",
+                "thumb": "@THEME_PATH@/components/_images/background1.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4296,12 +4296,12 @@
                 "active": true
               },
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020718-164192020-7-2-16-59-27.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/background1.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background1.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=K4yW6rVnnTI",
+                "image": "@THEME_PATH@/components/_images/background3.jpg",
+                "thumb": "@THEME_PATH@/components/_images/background3.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
