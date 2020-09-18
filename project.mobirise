@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Paid Video Status",
-    "currentPage": "Album-4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -665,7 +665,8 @@
                 "& when (@gradOverlay)": {
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
-              }
+              },
+              "text-align": "center"
             }
           },
           "_name": "gallery4",
@@ -702,7 +703,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b><br>",
+                "caption": "<a href=\"https://sandra85338773331418.googuu.xyz/api/get.php?id=2e483d06658989f5ace49adddd5\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a><br>",
                 "active": true
               },
               {
@@ -715,7 +716,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b><br>",
+                "caption": "<a href=\"https://johnni67257595428672.googuu.xyz/api/get.php?id=c3f37079e59be320e0caab74e9d\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a><br>",
                 "active": false
               }
             ]
