@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "Paid Video Status",
-    "currentPage": "Album-2.html",
+    "currentPage": "Album-4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#149dcc",
+        "primaryColor": "#f6f6f6",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -681,29 +681,29 @@
             "gallery": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise202083-2026192020-8-4-20-26-52.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020818-1449432020-8-5-16-1-58.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/VpkTiyDshUg",
+                "videoUrl": "https://www.youtube.com/watch?v=niDoj90Ll9Q&feature=youtu.be",
                 "image": "@PROJECT_PATH@/assets/images/background1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/background1.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b><br>",
-                "active": true
+                "caption": "<a href=\"https://nellie122546754001523.googuu.xyz/api/get.php?id=9fc504af4c0fb2c56f4155369fe\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a><br>",
+                "active": false
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020718-164192020-7-2-16-51-44.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020818-1449432020-8-5-15-33-38.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=obW8rxiYClI",
+                "videoUrl": "https://youtu.be/0VluG0x_-k4",
                 "image": "@PROJECT_PATH@/assets/images/20200818-115637-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/20200818-115637-2000x2000-800x800.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Download...</b><br>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -2600,7 +2600,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Time To Time Status - Paid Video Status | p_v_s_official",
-        "order": 2,
+        "order": 1,
         "meta_image": "@PROJECT_PATH@/assets/images/devotinoal-status-778x972.png"
       },
       "components": [
@@ -3215,7 +3215,8 @@
                 "& when (@gradOverlay)": {
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
-              }
+              },
+              "text-align": "center"
             }
           },
           "_name": "gallery4",
@@ -3239,7 +3240,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b><br>",
+                "caption": "<a href=\"https://bernard18854607020479.googuu.xyz/api/get.php?id=be44d79fc22aa3c98f4981dc407\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a><br>",
                 "active": true
               },
               {
@@ -3252,7 +3253,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b><br>",
+                "caption": "<a href=\"https://steven106657886002857.googuu.xyz/api/get.php?id=3797b6a65fbea87e4fb79b1e8d6\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a><br>",
                 "active": false
               },
               {
@@ -3265,7 +3266,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b><br>",
+                "caption": "<a href=\"https://ramona15274028595534.googuu.xyz/api/get.php?id=6cb0fa1097d02591974a92da6bd\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a><br>",
                 "active": false
               }
             ]
@@ -3381,7 +3382,8 @@
                 "& when (@gradOverlay)": {
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
-              }
+              },
+              "text-align": "center"
             }
           },
           "_name": "gallery4",
@@ -3405,7 +3407,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<a href=\"https://eddie13333804739345.googuu.xyz/api/get.php?id=dc21e8d6a468a437c8cab504acd\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a>",
                 "active": true
               },
               {
@@ -3418,7 +3420,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b><br>",
+                "caption": "<a href=\"https://janet98181.googuu.xyz/api/get.php?id=952f5f2aca90f376789b68f3c88\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a><br>",
                 "active": false
               },
               {
@@ -3431,7 +3433,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<b><a href=\"https://steven106657886002857.googuu.xyz/api/get.php?id=3797b6a65fbea87e4fb79b1e8d6\" class=\"text-white\" target=\"_blank\">Download...</a></b>",
                 "active": false
               }
             ]
@@ -3513,7 +3515,8 @@
                 "& when (@gradOverlay)": {
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
-              }
+              },
+              "text-align": "center"
             }
           },
           "_name": "gallery4",
@@ -3537,7 +3540,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b><br>",
+                "caption": "<a href=\"https://ramona15274028595534.googuu.xyz/api/get.php?id=6cb0fa1097d02591974a92da6bd\" class=\"text-white text-primary\" target=\"_blank\"><b>Download...</b></a><br>",
                 "active": false
               },
               {
@@ -3550,7 +3553,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-5",
-                "caption": "<b>Download...</b><br>",
+                "caption": "<a href=\"https://constance9414400787236.googuu.xyz/api/get.php?id=7194112ef28b0d39fbad65c4d3e\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a><br>",
                 "active": false
               },
               {
@@ -3563,7 +3566,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b><br>",
+                "caption": "<a href=\"https://bernard18854607020479.googuu.xyz/api/get.php?id=be44d79fc22aa3c98f4981dc407\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a><br>",
                 "active": true
               }
             ]
@@ -3575,7 +3578,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Hate, Sad, Broken Status - Paid Video Status | p_v_s_official",
-        "order": 4,
+        "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/sad-status-474x593.png"
       },
       "components": [
@@ -4190,7 +4193,8 @@
                 "& when (@gradOverlay)": {
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
-              }
+              },
+              "text-align": "center"
             }
           },
           "_name": "gallery4",
@@ -4214,7 +4218,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<b>Download...</b>",
                 "active": true
               },
               {
@@ -4227,7 +4231,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<a href=\"https://lonnie13699898074275.googuu.xyz/api/get.php?id=b71b6be5783876313803c1d4b4e\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a>",
                 "active": false
               },
               {
@@ -4240,7 +4244,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<b>Download...</b>",
                 "active": false
               }
             ]
@@ -4356,7 +4360,8 @@
                 "& when (@gradOverlay)": {
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
-              }
+              },
+              "text-align": "center"
             }
           },
           "_name": "gallery4",
@@ -4380,7 +4385,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<a href=\"https://sandra85338773331418.googuu.xyz/api/get.php?id=03c9580098e7646d2448d02d7c9\" class=\"text-primary\" target=\"_blank\"><b>Downlod...</b></a>",
                 "active": true
               },
               {
@@ -4393,7 +4398,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<a href=\"https://lonnie13699898074275.googuu.xyz/api/get.php?id=b71b6be5783876313803c1d4b4e\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a>",
                 "active": false
               },
               {
@@ -4406,7 +4411,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<b>Download...</b>",
                 "active": false
               }
             ]
@@ -4550,7 +4555,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Attitude, Pubg Status - Paid Video Status | p_v_s_official",
-        "order": 5,
+        "order": 4,
         "meta_image": "@PROJECT_PATH@/assets/images/attitude-status-474x593.png"
       },
       "components": [
@@ -5189,7 +5194,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b>",
+                "caption": "<a href=\"https://steven106657886002857.googuu.xyz/api/get.php?id=22445d49433a8832617654be7df\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a>",
                 "active": false
               },
               {
@@ -5202,7 +5207,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b>",
+                "caption": "<a href=\"https://penny45032706652303.googuu.xyz/api/get.php?id=a1d81b8a8831e9febade2dd0a0e\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a>",
                 "active": false
               },
               {
@@ -5215,7 +5220,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b>",
+                "caption": "<a href=\"https://harold113477698718317.googuu.xyz/api/get.php?id=815b4f2c98099f66ae6ef9b42c0\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a>",
                 "active": true
               }
             ]
@@ -5355,7 +5360,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b>",
+                "caption": "<a href=\"https://harold113477698718317.googuu.xyz/api/get.php?id=815b4f2c98099f66ae6ef9b42c0\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a>",
                 "active": true
               },
               {
@@ -5368,7 +5373,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b>",
+                "caption": "<a href=\"https://penny45032706652303.googuu.xyz/api/get.php?id=a1d81b8a8831e9febade2dd0a0e\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a>",
                 "active": false
               },
               {
@@ -5381,7 +5386,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b>",
+                "caption": "<a href=\"https://danny35959.googuu.xyz/api/get.php?id=b978919cf2e2ec9abdbfa48854f\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a>",
                 "active": false
               }
             ]
@@ -5487,7 +5492,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Download...</b><br>",
+                "caption": "<a href=\"https://steven106657886002857.googuu.xyz/api/get.php?id=22445d49433a8832617654be7df\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a><br>",
                 "active": true
               },
               {
@@ -5525,7 +5530,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Romantic, Love Status - Paid Video Status | p_v_s_official",
-        "order": 3,
+        "order": 2,
         "meta_image": "@PROJECT_PATH@/assets/images/love-status-474x593.png"
       },
       "components": [
@@ -6164,7 +6169,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<a href=\"https://cherly83694244943639.googuu.xyz/api/get.php?id=39206a9ac2986d41abf5369b317https://cherly83694244943639.googuu.xyz/api/get.php?id=39206a9ac2986d41abf5369b317https://cherly83694244943639.googuu.xyz/api/get.php?id=39206a9ac2986d41abf5369b317\" class=\"text-white text-primary\" target=\"_blank\"><b>Download...</b></a>",
                 "active": false
               },
               {
@@ -6177,7 +6182,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<a href=\"https://sandra85338773331418.googuu.xyz/api/get.php?id=2e483d06658989f5ace49adddd5\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a>",
                 "active": true
               },
               {
@@ -6190,7 +6195,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<a href=\"https://sandra85338773331418.googuu.xyz/api/get.php?id=03c9580098e7646d2448d02d7c9\" class=\"text-primary\" target=\"_blank\"><b>Download...</b></a>",
                 "active": false
               }
             ]
@@ -6306,7 +6311,8 @@
                 "& when (@gradOverlay)": {
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
-              }
+              },
+              "text-align": "center"
             }
           },
           "_name": "gallery4",
@@ -6330,7 +6336,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<a href=\"https://sandra85338773331418.googuu.xyz/api/get.php?id=2e483d06658989f5ace49adddd5\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a>",
                 "active": true
               },
               {
@@ -6343,7 +6349,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<b><a href=\"https://sandra85338773331418.googuu.xyz/api/get.php?id=03c9580098e7646d2448d02d7c9\" class=\"text-primary\" target=\"_blank\">Download...</a></b>",
                 "active": false
               },
               {
@@ -6356,7 +6362,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<b><a href=\"https://bernard18854607020479.googuu.xyz/api/get.php?id=52019430b7dcae26c3aaa2966d4\" class=\"text-primary\" target=\"_blank\">Download...</a></b>",
                 "active": false
               }
             ]
@@ -6462,7 +6468,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<b><a href=\"https://steven106657886002857.googuu.xyz/api/get.php?id=22c56b306bbc3c2b3f5fb8fab48\" class=\"text-primary\" target=\"_blank\">Download...</a></b>",
                 "active": false
               },
               {
@@ -6475,7 +6481,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<b><a href=\"https://charlie46340607700614.googuu.xyz/api/get.php?id=3da7376e09799fd923656703ca8\" class=\"text-primary\">Download...</a></b>",
                 "active": false
               },
               {
@@ -6488,7 +6494,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Downlod...</b>",
+                "caption": "<b><a href=\"https://cherly83694244943639.googuu.xyz/api/get.php?id=39206a9ac2986d41abf5369b317\" class=\"text-primary\" target=\"_blank\">Download...</a></b>",
                 "active": true
               }
             ]
@@ -6500,7 +6506,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Owner Of Paid Video Status | p_v_s_official",
-        "order": 1
+        "order": 5
       },
       "components": [
         {
