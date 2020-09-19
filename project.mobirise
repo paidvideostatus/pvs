@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Paid Video Status",
-    "currentPage": "Disclaimer.html",
+    "currentPage": "Album-3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -681,6 +681,19 @@
           "_params": {
             "gallery": [
               {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020819-1145272020-8-6-11-51-38.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/rP6a-cToBGY",
+                "image": "@PROJECT_PATH@/assets/images/background2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background2.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"https://bit.ly/33LmsUF\" class=\"text-white text-primary\" target=\"_blank\"><b>Download...</b></a><br>",
+                "active": true
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020818-1449432020-8-5-16-1-58.jpg",
                 "playVideo": true,
@@ -704,19 +717,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"https://sandra85338773331418.googuu.xyz/api/get.php?id=2e483d06658989f5ace49adddd5\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a><br>",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020715-1128532020-7-6-12-34-50.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=YEWZpF-AWY0",
-                "image": "@PROJECT_PATH@/assets/images/background2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/background2.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "<a href=\"https://johnni67257595428672.googuu.xyz/api/get.php?id=c3f37079e59be320e0caab74e9d\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a><br>",
                 "active": false
               }
             ]
@@ -4210,6 +4210,19 @@
           "_params": {
             "gallery": [
               {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020819-1145272020-8-6-11-51-38.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/rP6a-cToBGY",
+                "image": "@PROJECT_PATH@/assets/images/background3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background3.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"https://bit.ly/33LmsUF\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a>",
+                "active": true
+              },
+              {
                 "tags": "Responsive",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise202083-2026192020-8-4-20-26-52.jpg",
                 "playVideo": true,
@@ -4220,7 +4233,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Download...</b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -4233,19 +4246,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"https://lonnie13699898074275.googuu.xyz/api/get.php?id=b71b6be5783876313803c1d4b4e\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a>",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/background3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/background3.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "<b>Download...</b>",
                 "active": false
               }
             ]
@@ -4377,6 +4377,19 @@
           "_params": {
             "gallery": [
               {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020819-1145272020-8-6-11-51-38.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/rP6a-cToBGY",
+                "image": "@PROJECT_PATH@/assets/images/background2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background2.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"https://bit.ly/33LmsUF\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a>",
+                "active": true
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise202083-2026192020-8-4-20-26-52.jpg",
                 "playVideo": true,
@@ -4387,7 +4400,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"https://sandra85338773331418.googuu.xyz/api/get.php?id=03c9580098e7646d2448d02d7c9\" class=\"text-white\" target=\"_blank\"><b>Downlod...</b></a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -4400,19 +4413,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"https://lonnie13699898074275.googuu.xyz/api/get.php?id=b71b6be5783876313803c1d4b4e\" class=\"text-white\" target=\"_blank\"><b>Download...</b></a>",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/background2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/background2.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "<b>Download...</b>",
                 "active": false
               }
             ]
